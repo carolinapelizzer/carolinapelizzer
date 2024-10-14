@@ -9,10 +9,6 @@ Data Analyst in training at EBAC – British School of Creative Arts and Technol
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinapelizzer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinapelizzer&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Languages used
 
